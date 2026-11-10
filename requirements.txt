@@ -1,0 +1,7 @@
+ultralytics>=8.2,<9
+opencv-python>=4.8
+numpy>=1.24
+onnx>=1.14
+onnxruntime>=1.16
+matplotlib>=3.7
+PyYAML>=6.0
